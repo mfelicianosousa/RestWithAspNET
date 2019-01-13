@@ -9,3 +9,14 @@ D:\Projetos_RestFull\RestWithAspNET\RestWithAspNET\RestWithAspNET\obj\Debug\netc
 D:\Projetos_RestFull\RestWithAspNET\RestWithAspNET\RestWithAspNET\obj\Debug\netcoreapp2.0\RestWithAspNET.AssemblyInfo.cs
 D:\Projetos_RestFull\RestWithAspNET\RestWithAspNET\RestWithAspNET\obj\Debug\netcoreapp2.0\RestWithAspNET.dll
 D:\Projetos_RestFull\RestWithAspNET\RestWithAspNET\RestWithAspNET\obj\Debug\netcoreapp2.0\RestWithAspNET.pdb
+D:\Projetos_RestFull\RestWithAspNET\RestWithAspNET 01 - Calculator\RestWithAspNET\bin\Debug\netcoreapp2.0\RestWithAspNET.deps.json
+D:\Projetos_RestFull\RestWithAspNET\RestWithAspNET 01 - Calculator\RestWithAspNET\bin\Debug\netcoreapp2.0\RestWithAspNET.runtimeconfig.json
+D:\Projetos_RestFull\RestWithAspNET\RestWithAspNET 01 - Calculator\RestWithAspNET\bin\Debug\netcoreapp2.0\RestWithAspNET.runtimeconfig.dev.json
+D:\Projetos_RestFull\RestWithAspNET\RestWithAspNET 01 - Calculator\RestWithAspNET\bin\Debug\netcoreapp2.0\RestWithAspNET.dll
+D:\Projetos_RestFull\RestWithAspNET\RestWithAspNET 01 - Calculator\RestWithAspNET\bin\Debug\netcoreapp2.0\RestWithAspNET.pdb
+D:\Projetos_RestFull\RestWithAspNET\RestWithAspNET 01 - Calculator\RestWithAspNET\obj\Debug\netcoreapp2.0\RestWithAspNET.csprojAssemblyReference.cache
+D:\Projetos_RestFull\RestWithAspNET\RestWithAspNET 01 - Calculator\RestWithAspNET\obj\Debug\netcoreapp2.0\RestWithAspNET.csproj.CoreCompileInputs.cache
+D:\Projetos_RestFull\RestWithAspNET\RestWithAspNET 01 - Calculator\RestWithAspNET\obj\Debug\netcoreapp2.0\RestWithAspNET.AssemblyInfoInputs.cache
+D:\Projetos_RestFull\RestWithAspNET\RestWithAspNET 01 - Calculator\RestWithAspNET\obj\Debug\netcoreapp2.0\RestWithAspNET.AssemblyInfo.cs
+D:\Projetos_RestFull\RestWithAspNET\RestWithAspNET 01 - Calculator\RestWithAspNET\obj\Debug\netcoreapp2.0\RestWithAspNET.dll
+D:\Projetos_RestFull\RestWithAspNET\RestWithAspNET 01 - Calculator\RestWithAspNET\obj\Debug\netcoreapp2.0\RestWithAspNET.pdb

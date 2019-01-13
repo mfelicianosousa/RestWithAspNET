@@ -12669,11 +12669,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos_RestFull\\RestWithAspNET\\RestWithAspNET\\RestWithAspNET\\RestWithAspNET.csproj",
+      "projectUniqueName": "D:\\Projetos_RestFull\\RestWithAspNET\\RestWithAspNET 01 - Calculator\\RestWithAspNET\\RestWithAspNET.csproj",
       "projectName": "RestWithAspNET",
-      "projectPath": "D:\\Projetos_RestFull\\RestWithAspNET\\RestWithAspNET\\RestWithAspNET\\RestWithAspNET.csproj",
+      "projectPath": "D:\\Projetos_RestFull\\RestWithAspNET\\RestWithAspNET 01 - Calculator\\RestWithAspNET\\RestWithAspNET.csproj",
       "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
-      "outputPath": "D:\\Projetos_RestFull\\RestWithAspNET\\RestWithAspNET\\RestWithAspNET\\obj\\",
+      "outputPath": "D:\\Projetos_RestFull\\RestWithAspNET\\RestWithAspNET 01 - Calculator\\RestWithAspNET\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
